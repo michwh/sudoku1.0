@@ -3,6 +3,8 @@
 
 1.界面展示
 ======
+![](https://github.com/wenhui-huang/sudoku1.0/blob/master/images/1.jpg)
+![](https://github.com/wenhui-huang/sudoku1.0/blob/master/images/2.jpg)
 2.实现方法
 ======
 2.1生成数独
