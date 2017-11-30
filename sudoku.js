@@ -1,4 +1,7 @@
-
+/*
+*designed by wenhui huang
+*
+*/
 	var count = 0;
 	var timeArea = document.getElementById("timer");
   var startGame;
