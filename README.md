@@ -1,12 +1,12 @@
 # sudoku1.0
 这次版本存在瑕疵，给用户填写的数独有不唯一解的可能，这将会在以后改进
 
-## [demo](https://wenhui-huang.github.io/sudoku1.0/index.html)
+## [demo](https://michwh.github.io/sudoku1.0/index.html)
 
 1.界面展示
 ======
-![](https://github.com/wenhui-huang/sudoku1.0/blob/master/images/1.jpg)
-![](https://github.com/wenhui-huang/sudoku1.0/blob/master/images/2.jpg)
+![](https://github.com/michwh/sudoku1.0/blob/master/images/1.jpg)
+![](https://github.com/michwh/sudoku1.0/blob/master/images/2.jpg)
 2.实现方法
 ======
 2.1生成数独
